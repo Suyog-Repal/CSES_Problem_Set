@@ -27,7 +27,7 @@ The goal of this repository is to improve:
 
 | Category | Solved |
 |---|---|
-| Introductory Problems | 0 |
+| Introductory Problems | 2 |
 | Sorting and Searching | 0 |
 | Dynamic Programming | 1 |
 | Graph Algorithms | 0 |
@@ -39,7 +39,7 @@ The goal of this repository is to improve:
 | Advanced Techniques | 0 |
 | Additional Problems | 0 |
 
-## ✅ Total Problems Solved: 1
+## ✅ Total Problems Solved: 3
 
 ---
 
@@ -47,6 +47,8 @@ The goal of this repository is to improve:
 
 | # | Problem | Solution |
 |---|---|---|
+| 1 | missing_number | [Code](./Introductory%20Problems/missing_number.cpp) |
+| 2 | weird_algorithm | [Code](./Introductory%20Problems/weird_algorithm.cpp) |
 
 
 # 📂 Sorting and Searching
