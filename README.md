@@ -1,29 +1,8 @@
-
 # CSES Problem Set Solutions
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-17-blue.svg" />
-  <img src="https://img.shields.io/badge/Platform-CSES-green.svg" />
-  <img src="https://img.shields.io/badge/Status-Active-success.svg" />
-</p>
+Solutions to the CSES Problem Set in C++.
 
----
-
-## 📌 About
-
-This repository contains my solutions to the CSES Problem Set in C++.
-
-The goal of this repository is to improve:
-
-- Data Structures & Algorithms
-- Competitive Programming
-- Problem Solving Skills
-- Pattern Recognition
-- Interview Preparation
-
----
-
-# 📊 Progress Tracker
+## Progress
 
 | Category | Solved |
 |---|---|
@@ -39,11 +18,11 @@ The goal of this repository is to improve:
 | Advanced Techniques | 0 |
 | Additional Problems | 0 |
 
-## ✅ Total Problems Solved: 3
+**Total Solved:** 3
 
 ---
 
-# 📂 Introductory Problems
+## Introductory Problems
 
 | # | Problem | Solution |
 |---|---|---|
@@ -51,79 +30,63 @@ The goal of this repository is to improve:
 | 2 | weird_algorithm | [Code](./Introductory%20Problems/weird_algorithm.cpp) |
 
 
-# 📂 Sorting and Searching
+## Sorting and Searching
 
 | # | Problem | Solution |
 |---|---|---|
 
 
-# 📂 Dynamic Programming
+## Dynamic Programming
 
 | # | Problem | Solution |
 |---|---|---|
 | 1 | removing_digits | [Code](./Dynamic%20Programming/removing_digits.cpp) |
 
 
-# 📂 Graph Algorithms
+## Graph Algorithms
 
 | # | Problem | Solution |
 |---|---|---|
 
 
-# 📂 Range Queries
+## Range Queries
 
 | # | Problem | Solution |
 |---|---|---|
 
 
-# 📂 Tree Algorithms
+## Tree Algorithms
 
 | # | Problem | Solution |
 |---|---|---|
 
 
-# 📂 Mathematics
+## Mathematics
 
 | # | Problem | Solution |
 |---|---|---|
 
 
-# 📂 String Algorithms
+## String Algorithms
 
 | # | Problem | Solution |
 |---|---|---|
 
 
-# 📂 Geometry
+## Geometry
 
 | # | Problem | Solution |
 |---|---|---|
 
 
-# 📂 Advanced Techniques
+## Advanced Techniques
 
 | # | Problem | Solution |
 |---|---|---|
 
 
-# 📂 Additional Problems
+## Additional Problems
 
 | # | Problem | Solution |
 |---|---|---|
 
-
----
-
-# 🛠️ Language Used
-
-- C++17
-
----
-
-# 🎯 Goal
-
-To complete the full CSES Problem Set while mastering DSA and competitive programming patterns.
-
----
-
-⭐ If you like this repository, consider giving it a star.
