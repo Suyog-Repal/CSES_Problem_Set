@@ -1,40 +1,78 @@
-# Compiled Object files
+# =========================
+# Compiled Files
+# =========================
 *.o
 *.obj
-
-# Executables
-*.exe
 *.out
+*.exe
 *.app
+*.class
 
-# Debug files
-*.dSYM/
+# =========================
+# Debug / Logs
+# =========================
+*.log
 *.stackdump
 
+# =========================
+# Temporary Files
+# =========================
+*~
+*.tmp
+*.temp
+
+# =========================
 # VS Code
+# =========================
 .vscode/
 
+# =========================
+# JetBrains IDEs
+# =========================
+.idea/
+cmake-build-*/
+
+# =========================
 # Code::Blocks
+# =========================
 *.cbp
 *.layout
 *.depend
 
-# CLion / IntelliJ
-.idea/
-cmake-build-*/
-
+# =========================
 # CMake
+# =========================
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
 Makefile
+compile_commands.json
 
-# Mac
+# =========================
+# macOS
+# =========================
 .DS_Store
 
-# Linux
-*~
-
+# =========================
 # Windows
+# =========================
 Thumbs.db
 desktop.ini
+
+# =========================
+# Competitive Programming
+# =========================
+input.txt
+output.txt
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+
+# =========================
+# GitHub Actions Artifacts
+# =========================
+*.zip
+*.tar
