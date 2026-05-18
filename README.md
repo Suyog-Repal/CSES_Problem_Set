@@ -16,7 +16,14 @@ Solutions to the CSES Problem Set in C++.
 | String Algorithms | 0 |
 | Geometry | 0 |
 | Advanced Techniques | 0 |
-| Additional Problems | 0 |
+| Sliding Window Problems | 0 |
+| Interactive Problems | 0 |
+| Bitwise Operations | 0 |
+| Construction Problems | 0 |
+| Advanced Graph Problems | 0 |
+| Counting Problems | 0 |
+| Additional Problems I | 0 |
+| Additional Problems II | 0 |
 
 **Total Solved:** 4
 
@@ -86,7 +93,49 @@ Solutions to the CSES Problem Set in C++.
 |---|---|---|
 
 
-## Additional Problems
+## Sliding Window Problems
+
+| # | Problem | Solution |
+|---|---|---|
+
+
+## Interactive Problems
+
+| # | Problem | Solution |
+|---|---|---|
+
+
+## Bitwise Operations
+
+| # | Problem | Solution |
+|---|---|---|
+
+
+## Construction Problems
+
+| # | Problem | Solution |
+|---|---|---|
+
+
+## Advanced Graph Problems
+
+| # | Problem | Solution |
+|---|---|---|
+
+
+## Counting Problems
+
+| # | Problem | Solution |
+|---|---|---|
+
+
+## Additional Problems I
+
+| # | Problem | Solution |
+|---|---|---|
+
+
+## Additional Problems II
 
 | # | Problem | Solution |
 |---|---|---|
