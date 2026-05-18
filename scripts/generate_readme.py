@@ -13,7 +13,14 @@ sections = [
     "String Algorithms",
     "Geometry",
     "Advanced Techniques",
-    "Additional Problems"
+    "Sliding Window Problems",
+    "Interactive Problems",
+    "Bitwise Operations", 
+    "Construction Problems",
+    "Advanced Graph Problems",
+    "Counting Problems",
+    "Additional Problems I",
+    "Additional Problems II"
 ]
 
 total_solved = 0
