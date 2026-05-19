@@ -19,3 +19,6 @@ int main(){
     cout << moves << endl; 
     return 0; 
 }
+// mistakes that i did: 
+// mistake i did: forgot to put the long long data type instead of int!!
+// mistakes i did : forgot to update the element after moves done!!
