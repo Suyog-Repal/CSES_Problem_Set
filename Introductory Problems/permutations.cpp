@@ -8,9 +8,9 @@ int main(){
     //code
     ll n; 
     cin >> n; 
-    if(n == 1) cout << "1" << " ";
+    if(n == 1) cout << "1";
     else if(n == 2 || n == 3){
-      cout << "NO SOLUTION" << " "; 
+      cout << "NO SOLUTION"; 
     }else{
         for(ll i = 2; i<=n; i+=2){
         cout << i << " "; 
