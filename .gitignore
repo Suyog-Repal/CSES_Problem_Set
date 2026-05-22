@@ -35,6 +35,7 @@ cmake-build-*/
 # =========================
 # Code::Blocks
 # =========================
+.txt
 *.cbp
 *.layout
 *.depend

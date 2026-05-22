@@ -1,0 +1,46 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+using ll = long long;
+using ull = unsigned long long;
+using ld = long double;
+
+#define endl '\n'
+
+int main() {
+
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    // code here
+
+    return 0;
+}
+
+//####################################
+//       why this template?
+//####################################
+// #include <bits/stdc++.h>
+// Includes almost all standard libraries.
+
+// using namespace std;
+// Avoids writing std:: repeatedly.
+
+// using ll = long long;
+// Shortcut for long long.
+
+// using ull = unsigned long long;
+// Useful sometimes in bit manipulation/math.
+
+// using ld = long double;
+// Useful for high precision.
+
+// #define endl '\n'
+// Makes endl behave like '\n'
+// avoids flushing issue.
+
+// ios::sync_with_stdio(false);
+// Fast input/output.
+
+// cin.tie(nullptr);
+// Prevents unnecessary flushing before cin.
