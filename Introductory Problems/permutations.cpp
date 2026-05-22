@@ -51,6 +51,17 @@ int main(){
 // Kept commented old code in final submission.
 // Remove unnecessary commented code for cleaner code.
 
+// Mistake 7:
+// Added unnecessary trailing spaces after single outputs.
+
+// Avoid:
+// cout << "1" << " ";
+// cout << "NO SOLUTION" << " ";
+
+// Better:
+// cout << "1";
+// cout << "NO SOLUTION";
+
 // IMPORTANT: 
 // 1. Solve the problem first.
 
