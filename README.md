@@ -7,7 +7,7 @@ Solutions to the CSES Problem Set in C++.
 | Category | Solved |
 |---|---|
 | Introductory Problems | 7 |
-| Sorting and Searching | 0 |
+| Sorting and Searching | 1 |
 | Dynamic Programming | 1 |
 | Graph Algorithms | 0 |
 | Range Queries | 0 |
@@ -25,7 +25,7 @@ Solutions to the CSES Problem Set in C++.
 | Additional Problems I | 0 |
 | Additional Problems II | 0 |
 
-**Total Solved:** 8
+**Total Solved:** 9
 
 ---
 
@@ -46,6 +46,7 @@ Solutions to the CSES Problem Set in C++.
 
 | # | Problem | Solution |
 |---|---|---|
+| 1 | Subarray_Divisibility | [Code](./Sorting%20and%20Searching/Subarray_Divisibility.cpp) |
 
 
 ## Dynamic Programming
