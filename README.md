@@ -6,7 +6,7 @@ Solutions to the CSES Problem Set in C++.
 
 | Category | Solved |
 |---|---|
-| Introductory Problems | 7 |
+| Introductory Problems | 8 |
 | Sorting and Searching | 1 |
 | Dynamic Programming | 1 |
 | Graph Algorithms | 0 |
@@ -25,7 +25,7 @@ Solutions to the CSES Problem Set in C++.
 | Additional Problems I | 0 |
 | Additional Problems II | 0 |
 
-**Total Solved:** 9
+**Total Solved:** 10
 
 ---
 
@@ -39,7 +39,8 @@ Solutions to the CSES Problem Set in C++.
 | 4 | Two_Knight | [Code](./Introductory%20Problems/Two_Knight.cpp) |
 | 5 | missing_number | [Code](./Introductory%20Problems/missing_number.cpp) |
 | 6 | permutations | [Code](./Introductory%20Problems/permutations.cpp) |
-| 7 | weird_algorithm | [Code](./Introductory%20Problems/weird_algorithm.cpp) |
+| 7 | two_sets | [Code](./Introductory%20Problems/two_sets.cpp) |
+| 8 | weird_algorithm | [Code](./Introductory%20Problems/weird_algorithm.cpp) |
 
 
 ## Sorting and Searching
