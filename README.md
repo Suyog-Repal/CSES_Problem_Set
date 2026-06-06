@@ -6,7 +6,7 @@ Solutions to the CSES Problem Set in C++.
 
 | Category | Solved |
 |---|---|
-| Introductory Problems | 8 |
+| Introductory Problems | 9 |
 | Sorting and Searching | 1 |
 | Dynamic Programming | 1 |
 | Graph Algorithms | 0 |
@@ -25,7 +25,7 @@ Solutions to the CSES Problem Set in C++.
 | Additional Problems I | 0 |
 | Additional Problems II | 0 |
 
-**Total Solved:** 10
+**Total Solved:** 11
 
 ---
 
@@ -33,14 +33,15 @@ Solutions to the CSES Problem Set in C++.
 
 | # | Problem | Solution |
 |---|---|---|
-| 1 | Increasing_array | [Code](./Introductory%20Problems/Increasing_array.cpp) |
-| 2 | Number_Spiral | [Code](./Introductory%20Problems/Number_Spiral.cpp) |
-| 3 | Repetitions | [Code](./Introductory%20Problems/Repetitions.cpp) |
-| 4 | Two_Knight | [Code](./Introductory%20Problems/Two_Knight.cpp) |
-| 5 | missing_number | [Code](./Introductory%20Problems/missing_number.cpp) |
-| 6 | permutations | [Code](./Introductory%20Problems/permutations.cpp) |
-| 7 | two_sets | [Code](./Introductory%20Problems/two_sets.cpp) |
-| 8 | weird_algorithm | [Code](./Introductory%20Problems/weird_algorithm.cpp) |
+| 1 | Bit_Strings | [Code](./Introductory%20Problems/Bit_Strings.cpp) |
+| 2 | Increasing_array | [Code](./Introductory%20Problems/Increasing_array.cpp) |
+| 3 | Number_Spiral | [Code](./Introductory%20Problems/Number_Spiral.cpp) |
+| 4 | Repetitions | [Code](./Introductory%20Problems/Repetitions.cpp) |
+| 5 | Two_Knight | [Code](./Introductory%20Problems/Two_Knight.cpp) |
+| 6 | missing_number | [Code](./Introductory%20Problems/missing_number.cpp) |
+| 7 | permutations | [Code](./Introductory%20Problems/permutations.cpp) |
+| 8 | two_sets | [Code](./Introductory%20Problems/two_sets.cpp) |
+| 9 | weird_algorithm | [Code](./Introductory%20Problems/weird_algorithm.cpp) |
 
 
 ## Sorting and Searching
