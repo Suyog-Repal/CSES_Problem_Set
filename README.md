@@ -6,7 +6,7 @@ Solutions to the CSES Problem Set in C++.
 
 | Category | Solved |
 |---|---|
-| Introductory Problems | 12 |
+| Introductory Problems | 13 |
 | Sorting and Searching | 1 |
 | Dynamic Programming | 1 |
 | Graph Algorithms | 0 |
@@ -25,7 +25,7 @@ Solutions to the CSES Problem Set in C++.
 | Additional Problems I | 0 |
 | Additional Problems II | 0 |
 
-**Total Solved:** 14
+**Total Solved:** 15
 
 ---
 
@@ -40,11 +40,12 @@ Solutions to the CSES Problem Set in C++.
 | 5 | Repetitions | [Code](./Introductory%20Problems/Repetitions.cpp) |
 | 6 | Trailing_Zeros | [Code](./Introductory%20Problems/Trailing_Zeros.cpp) |
 | 7 | Two_Knight | [Code](./Introductory%20Problems/Two_Knight.cpp) |
-| 8 | missing_number | [Code](./Introductory%20Problems/missing_number.cpp) |
-| 9 | palindrome_reorder | [Code](./Introductory%20Problems/palindrome_reorder.cpp) |
-| 10 | permutations | [Code](./Introductory%20Problems/permutations.cpp) |
-| 11 | two_sets | [Code](./Introductory%20Problems/two_sets.cpp) |
-| 12 | weird_algorithm | [Code](./Introductory%20Problems/weird_algorithm.cpp) |
+| 8 | gray_code | [Code](./Introductory%20Problems/gray_code.cpp) |
+| 9 | missing_number | [Code](./Introductory%20Problems/missing_number.cpp) |
+| 10 | palindrome_reorder | [Code](./Introductory%20Problems/palindrome_reorder.cpp) |
+| 11 | permutations | [Code](./Introductory%20Problems/permutations.cpp) |
+| 12 | two_sets | [Code](./Introductory%20Problems/two_sets.cpp) |
+| 13 | weird_algorithm | [Code](./Introductory%20Problems/weird_algorithm.cpp) |
 
 
 ## Sorting and Searching
