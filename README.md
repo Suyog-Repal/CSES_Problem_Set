@@ -6,7 +6,7 @@ Solutions to the CSES Problem Set in C++.
 
 | Category | Solved |
 |---|---|
-| Introductory Problems | 11 |
+| Introductory Problems | 12 |
 | Sorting and Searching | 1 |
 | Dynamic Programming | 1 |
 | Graph Algorithms | 0 |
@@ -25,7 +25,7 @@ Solutions to the CSES Problem Set in C++.
 | Additional Problems I | 0 |
 | Additional Problems II | 0 |
 
-**Total Solved:** 13
+**Total Solved:** 14
 
 ---
 
@@ -41,9 +41,10 @@ Solutions to the CSES Problem Set in C++.
 | 6 | Trailing_Zeros | [Code](./Introductory%20Problems/Trailing_Zeros.cpp) |
 | 7 | Two_Knight | [Code](./Introductory%20Problems/Two_Knight.cpp) |
 | 8 | missing_number | [Code](./Introductory%20Problems/missing_number.cpp) |
-| 9 | permutations | [Code](./Introductory%20Problems/permutations.cpp) |
-| 10 | two_sets | [Code](./Introductory%20Problems/two_sets.cpp) |
-| 11 | weird_algorithm | [Code](./Introductory%20Problems/weird_algorithm.cpp) |
+| 9 | palindrome_reorder | [Code](./Introductory%20Problems/palindrome_reorder.cpp) |
+| 10 | permutations | [Code](./Introductory%20Problems/permutations.cpp) |
+| 11 | two_sets | [Code](./Introductory%20Problems/two_sets.cpp) |
+| 12 | weird_algorithm | [Code](./Introductory%20Problems/weird_algorithm.cpp) |
 
 
 ## Sorting and Searching
