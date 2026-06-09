@@ -6,7 +6,7 @@ Solutions to the CSES Problem Set in C++.
 
 | Category | Solved |
 |---|---|
-| Introductory Problems | 13 |
+| Introductory Problems | 14 |
 | Sorting and Searching | 1 |
 | Dynamic Programming | 1 |
 | Graph Algorithms | 0 |
@@ -25,7 +25,7 @@ Solutions to the CSES Problem Set in C++.
 | Additional Problems I | 0 |
 | Additional Problems II | 0 |
 
-**Total Solved:** 15
+**Total Solved:** 16
 
 ---
 
@@ -38,14 +38,15 @@ Solutions to the CSES Problem Set in C++.
 | 3 | Increasing_array | [Code](./Introductory%20Problems/Increasing_array.cpp) |
 | 4 | Number_Spiral | [Code](./Introductory%20Problems/Number_Spiral.cpp) |
 | 5 | Repetitions | [Code](./Introductory%20Problems/Repetitions.cpp) |
-| 6 | Trailing_Zeros | [Code](./Introductory%20Problems/Trailing_Zeros.cpp) |
-| 7 | Two_Knight | [Code](./Introductory%20Problems/Two_Knight.cpp) |
-| 8 | gray_code | [Code](./Introductory%20Problems/gray_code.cpp) |
-| 9 | missing_number | [Code](./Introductory%20Problems/missing_number.cpp) |
-| 10 | palindrome_reorder | [Code](./Introductory%20Problems/palindrome_reorder.cpp) |
-| 11 | permutations | [Code](./Introductory%20Problems/permutations.cpp) |
-| 12 | two_sets | [Code](./Introductory%20Problems/two_sets.cpp) |
-| 13 | weird_algorithm | [Code](./Introductory%20Problems/weird_algorithm.cpp) |
+| 6 | Tower_of_Hanoi | [Code](./Introductory%20Problems/Tower_of_Hanoi.cpp) |
+| 7 | Trailing_Zeros | [Code](./Introductory%20Problems/Trailing_Zeros.cpp) |
+| 8 | Two_Knight | [Code](./Introductory%20Problems/Two_Knight.cpp) |
+| 9 | gray_code | [Code](./Introductory%20Problems/gray_code.cpp) |
+| 10 | missing_number | [Code](./Introductory%20Problems/missing_number.cpp) |
+| 11 | palindrome_reorder | [Code](./Introductory%20Problems/palindrome_reorder.cpp) |
+| 12 | permutations | [Code](./Introductory%20Problems/permutations.cpp) |
+| 13 | two_sets | [Code](./Introductory%20Problems/two_sets.cpp) |
+| 14 | weird_algorithm | [Code](./Introductory%20Problems/weird_algorithm.cpp) |
 
 
 ## Sorting and Searching
