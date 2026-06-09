@@ -6,8 +6,8 @@ Solutions to the CSES Problem Set in C++.
 
 | Category | Solved |
 |---|---|
-| Introductory Problems | 14 |
-| Sorting and Searching | 1 |
+| Introductory Problems | 15 |
+| Sorting and Searching | 2 |
 | Dynamic Programming | 1 |
 | Graph Algorithms | 0 |
 | Range Queries | 0 |
@@ -25,7 +25,7 @@ Solutions to the CSES Problem Set in C++.
 | Additional Problems I | 0 |
 | Additional Problems II | 0 |
 
-**Total Solved:** 16
+**Total Solved:** 18
 
 ---
 
@@ -35,25 +35,27 @@ Solutions to the CSES Problem Set in C++.
 |---|---|---|
 | 1 | Bit_Strings | [Code](./Introductory%20Problems/Bit_Strings.cpp) |
 | 2 | Coin_Piles | [Code](./Introductory%20Problems/Coin_Piles.cpp) |
-| 3 | Increasing_array | [Code](./Introductory%20Problems/Increasing_array.cpp) |
-| 4 | Number_Spiral | [Code](./Introductory%20Problems/Number_Spiral.cpp) |
-| 5 | Repetitions | [Code](./Introductory%20Problems/Repetitions.cpp) |
-| 6 | Tower_of_Hanoi | [Code](./Introductory%20Problems/Tower_of_Hanoi.cpp) |
-| 7 | Trailing_Zeros | [Code](./Introductory%20Problems/Trailing_Zeros.cpp) |
-| 8 | Two_Knight | [Code](./Introductory%20Problems/Two_Knight.cpp) |
-| 9 | gray_code | [Code](./Introductory%20Problems/gray_code.cpp) |
-| 10 | missing_number | [Code](./Introductory%20Problems/missing_number.cpp) |
-| 11 | palindrome_reorder | [Code](./Introductory%20Problems/palindrome_reorder.cpp) |
-| 12 | permutations | [Code](./Introductory%20Problems/permutations.cpp) |
-| 13 | two_sets | [Code](./Introductory%20Problems/two_sets.cpp) |
-| 14 | weird_algorithm | [Code](./Introductory%20Problems/weird_algorithm.cpp) |
+| 3 | Creating_Strings | [Code](./Introductory%20Problems/Creating_Strings.cpp) |
+| 4 | Increasing_array | [Code](./Introductory%20Problems/Increasing_array.cpp) |
+| 5 | Number_Spiral | [Code](./Introductory%20Problems/Number_Spiral.cpp) |
+| 6 | Repetitions | [Code](./Introductory%20Problems/Repetitions.cpp) |
+| 7 | Tower_of_Hanoi | [Code](./Introductory%20Problems/Tower_of_Hanoi.cpp) |
+| 8 | Trailing_Zeros | [Code](./Introductory%20Problems/Trailing_Zeros.cpp) |
+| 9 | Two_Knight | [Code](./Introductory%20Problems/Two_Knight.cpp) |
+| 10 | gray_code | [Code](./Introductory%20Problems/gray_code.cpp) |
+| 11 | missing_number | [Code](./Introductory%20Problems/missing_number.cpp) |
+| 12 | palindrome_reorder | [Code](./Introductory%20Problems/palindrome_reorder.cpp) |
+| 13 | permutations | [Code](./Introductory%20Problems/permutations.cpp) |
+| 14 | two_sets | [Code](./Introductory%20Problems/two_sets.cpp) |
+| 15 | weird_algorithm | [Code](./Introductory%20Problems/weird_algorithm.cpp) |
 
 
 ## Sorting and Searching
 
 | # | Problem | Solution |
 |---|---|---|
-| 1 | Subarray_Divisibility | [Code](./Sorting%20and%20Searching/Subarray_Divisibility.cpp) |
+| 1 | Distinct_Numbers | [Code](./Sorting%20and%20Searching/Distinct_Numbers.cpp) |
+| 2 | Subarray_Divisibility | [Code](./Sorting%20and%20Searching/Subarray_Divisibility.cpp) |
 
 
 ## Dynamic Programming
