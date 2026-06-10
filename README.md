@@ -8,7 +8,7 @@ Solutions to the CSES Problem Set in C++.
 |---|---|
 | Introductory Problems | 15 |
 | Sorting and Searching | 2 |
-| Dynamic Programming | 1 |
+| Dynamic Programming | 2 |
 | Graph Algorithms | 0 |
 | Range Queries | 0 |
 | Tree Algorithms | 0 |
@@ -25,7 +25,7 @@ Solutions to the CSES Problem Set in C++.
 | Additional Problems I | 0 |
 | Additional Problems II | 0 |
 
-**Total Solved:** 18
+**Total Solved:** 19
 
 ---
 
@@ -62,7 +62,8 @@ Solutions to the CSES Problem Set in C++.
 
 | # | Problem | Solution |
 |---|---|---|
-| 1 | removing_digits | [Code](./Dynamic%20Programming/removing_digits.cpp) |
+| 1 | Dice_Combinations | [Code](./Dynamic%20Programming/Dice_Combinations.cpp) |
+| 2 | removing_digits | [Code](./Dynamic%20Programming/removing_digits.cpp) |
 
 
 ## Graph Algorithms
