@@ -20,11 +20,15 @@ void generate(string &s, string &current, vector<bool> &used){
         cout << current << '\n'; 
         return; 
     }
-    for(ll i = 0; i<s.size(); i++){
+    for(ll i = 0; i<(ll)s.size(); i++){
         if(used[i]) continue; 
+        if(s[i] == s[i-1] && !used[i-1]) continue; 
+
         used[i] = true; 
         current.push_back(s[i]); 
-        generate(s, current, used); 
+
+        generate(s, current, used);
+        //backtrack:  
         current.pop_back();
         used[i] = false; 
     }
@@ -36,6 +40,8 @@ int main(){
  
     string s; 
     cin >> s; 
+    sort(s.begin(), s.end()); 
+
     ll n = s.size(); 
     unordered_map<char, ll> freq; 
     ll ans = 0; 
