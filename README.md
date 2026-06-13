@@ -18,14 +18,14 @@ Solutions to the CSES Problem Set in C++.
 | Advanced Techniques | 0 |
 | Sliding Window Problems | 0 |
 | Interactive Problems | 0 |
-| Bitwise Operations | 0 |
+| Bitwise Operations | 1 |
 | Construction Problems | 0 |
 | Advanced Graph Problems | 0 |
 | Counting Problems | 0 |
 | Additional Problems I | 0 |
 | Additional Problems II | 0 |
 
-**Total Solved:** 19
+**Total Solved:** 20
 
 ---
 
@@ -124,6 +124,7 @@ Solutions to the CSES Problem Set in C++.
 
 | # | Problem | Solution |
 |---|---|---|
+| 1 | counting_bits | [Code](./Bitwise%20Operations/counting_bits.cpp) |
 
 
 ## Construction Problems
