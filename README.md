@@ -6,7 +6,7 @@ Solutions to the CSES Problem Set in C++.
 
 | Category | Solved |
 |---|---|
-| Introductory Problems | 15 |
+| Introductory Problems | 16 |
 | Sorting and Searching | 2 |
 | Dynamic Programming | 2 |
 | Graph Algorithms | 0 |
@@ -25,7 +25,7 @@ Solutions to the CSES Problem Set in C++.
 | Additional Problems I | 0 |
 | Additional Problems II | 0 |
 
-**Total Solved:** 20
+**Total Solved:** 21
 
 ---
 
@@ -42,12 +42,13 @@ Solutions to the CSES Problem Set in C++.
 | 7 | Tower_of_Hanoi | [Code](./Introductory%20Problems/Tower_of_Hanoi.cpp) |
 | 8 | Trailing_Zeros | [Code](./Introductory%20Problems/Trailing_Zeros.cpp) |
 | 9 | Two_Knight | [Code](./Introductory%20Problems/Two_Knight.cpp) |
-| 10 | gray_code | [Code](./Introductory%20Problems/gray_code.cpp) |
-| 11 | missing_number | [Code](./Introductory%20Problems/missing_number.cpp) |
-| 12 | palindrome_reorder | [Code](./Introductory%20Problems/palindrome_reorder.cpp) |
-| 13 | permutations | [Code](./Introductory%20Problems/permutations.cpp) |
-| 14 | two_sets | [Code](./Introductory%20Problems/two_sets.cpp) |
-| 15 | weird_algorithm | [Code](./Introductory%20Problems/weird_algorithm.cpp) |
+| 10 | apple_division | [Code](./Introductory%20Problems/apple_division.cpp) |
+| 11 | gray_code | [Code](./Introductory%20Problems/gray_code.cpp) |
+| 12 | missing_number | [Code](./Introductory%20Problems/missing_number.cpp) |
+| 13 | palindrome_reorder | [Code](./Introductory%20Problems/palindrome_reorder.cpp) |
+| 14 | permutations | [Code](./Introductory%20Problems/permutations.cpp) |
+| 15 | two_sets | [Code](./Introductory%20Problems/two_sets.cpp) |
+| 16 | weird_algorithm | [Code](./Introductory%20Problems/weird_algorithm.cpp) |
 
 
 ## Sorting and Searching
