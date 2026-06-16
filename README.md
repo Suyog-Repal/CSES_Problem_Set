@@ -159,7 +159,6 @@ Solutions to the CSES Problem Set in C++.
 | Chapter | Solved |
 |----------|---------|
 | Chapter 1 | 4 |
-| Chapter 2 | 0 |
 
 **Total Solved:** 4
 
@@ -173,9 +172,4 @@ Solutions to the CSES Problem Set in C++.
 | 2 | amount | [Code](./Datastar%20Coaching/Chapter%201/amount.cpp) |
 | 3 | bit_strings | [Code](./Datastar%20Coaching/Chapter%201/bit_strings.cpp) |
 | 4 | volume | [Code](./Datastar%20Coaching/Chapter%201/volume.cpp) |
-
-## Chapter 2
-
-| # | Problem | Solution |
-|---|---|---|
 
