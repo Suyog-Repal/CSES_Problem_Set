@@ -5,8 +5,8 @@
 | Platform | Solved |
 |----------|---------|
 | CSES | 21 |
-| Datastar Coaching | 4 |
-| Total | 25 |
+| Datastar Coaching | 5 |
+| Total | 26 |
 
 ---
 
@@ -159,8 +159,9 @@ Solutions to the CSES Problem Set in C++.
 | Chapter | Solved |
 |----------|---------|
 | Chapter 1 | 4 |
+| Chapter 2 | 1 |
 
-**Total Solved:** 4
+**Total Solved:** 5
 
 ---
 
@@ -172,4 +173,10 @@ Solutions to the CSES Problem Set in C++.
 | 2 | amount | [Code](./Datastar%20Coaching/Chapter%201/amount.cpp) |
 | 3 | bit_strings | [Code](./Datastar%20Coaching/Chapter%201/bit_strings.cpp) |
 | 4 | volume | [Code](./Datastar%20Coaching/Chapter%201/volume.cpp) |
+
+## Chapter 2
+
+| # | Problem | Solution |
+|---|---|---|
+| 1 | longest_playback | [Code](./Datastar%20Coaching/Chapter%202/longest_playback.cpp) |
 
