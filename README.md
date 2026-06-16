@@ -5,8 +5,8 @@
 | Platform | Solved |
 |----------|---------|
 | CSES | 21 |
-| Datastar Coaching | 5 |
-| Total | 26 |
+| Datastar Coaching | 6 |
+| Total | 27 |
 
 ---
 
@@ -159,9 +159,9 @@ Solutions to the CSES Problem Set in C++.
 | Chapter | Solved |
 |----------|---------|
 | Chapter 1 | 4 |
-| Chapter 2 | 1 |
+| Chapter 2 | 2 |
 
-**Total Solved:** 5
+**Total Solved:** 6
 
 ---
 
@@ -179,4 +179,5 @@ Solutions to the CSES Problem Set in C++.
 | # | Problem | Solution |
 |---|---|---|
 | 1 | longest_playback | [Code](./Datastar%20Coaching/Chapter%202/longest_playback.cpp) |
+| 2 | missing | [Code](./Datastar%20Coaching/Chapter%202/missing.cpp) |
 
