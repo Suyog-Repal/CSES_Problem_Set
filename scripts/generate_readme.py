@@ -1,6 +1,9 @@
 import os
+import re
+from urllib.parse import quote
 
 README_FILE = "README.md"
+DATASTAR_FOLDER = "Datastar Coaching"
 
 sections = [
     "Introductory Problems",
@@ -15,7 +18,7 @@ sections = [
     "Advanced Techniques",
     "Sliding Window Problems",
     "Interactive Problems",
-    "Bitwise Operations", 
+    "Bitwise Operations",
     "Construction Problems",
     "Advanced Graph Problems",
     "Counting Problems",
@@ -23,59 +26,129 @@ sections = [
     "Additional Problems II"
 ]
 
-total_solved = 0
 
-readme = """# CSES Problem Set Solutions
+def natural_sort_key(name):
+    match = re.match(r"^(Chapter)s?\s*(\d+)(?:-(\d+))?$", name, re.IGNORECASE)
+    if match:
+        first = int(match.group(2))
+        second = int(match.group(3)) if match.group(3) else 0
+        return (0, first, second, name.lower())
 
-Solutions to the CSES Problem Set in C++.
+    if name.lower() == "additional tasks":
+        return (1, 0, 0, name.lower())
 
-## Progress
+    return (2, 0, 0, name.lower())
 
-| Category | Solved |
-|---|---|
-"""
 
+def gather_cpp_files(folder):
+    return sorted(
+        [file for file in os.listdir(folder) if file.endswith(".cpp")],
+        key=lambda name: name.lower()
+    )
+
+
+def gather_datastar_chapters(base_folder):
+    chapters = []
+    if not os.path.isdir(base_folder):
+        return chapters
+
+    for item in os.listdir(base_folder):
+        item_path = os.path.join(base_folder, item)
+        if os.path.isdir(item_path):
+            chapters.append(item)
+
+    return sorted(chapters, key=natural_sort_key)
+
+
+# Gather CSES data
+cses_total = 0
 section_data = {}
 
 for section in sections:
-
     files = []
-
-    if os.path.exists(section):
-
-        files = sorted([
-            file for file in os.listdir(section)
-            if file.endswith(".cpp")
-        ])
+    if os.path.isdir(section):
+        files = gather_cpp_files(section)
 
     section_data[section] = files
-    total_solved += len(files)
+    cses_total += len(files)
 
-    readme += f"| {section} | {len(files)} |\n"
+# Gather Datastar Coaching data
+datastar_chapters = gather_datastar_chapters(DATASTAR_FOLDER)
+datastar_data = {}
+datastar_total = 0
 
-readme += f"\n**Total Solved:** {total_solved}\n"
+for chapter in datastar_chapters:
+    chapter_folder = os.path.join(DATASTAR_FOLDER, chapter)
+    files = gather_cpp_files(chapter_folder)
+    datastar_data[chapter] = files
+    datastar_total += len(files)
 
-readme += "\n---\n"
+readme = """# Competitive Programming Solutions
+
+## Overall Progress
+
+| Platform | Solved |
+|----------|---------|
+"""
+readme += f"| CSES | {cses_total} |\n"
+readme += f"| Datastar Coaching | {datastar_total} |\n"
+readme += f"| Total | {cses_total + datastar_total} |\n\n"
+readme += "---\n\n"
+
+readme += "# CSES Problem Set Solutions\n\n"
+readme += "Solutions to the CSES Problem Set in C++.\n\n"
+readme += "## Progress\n\n"
+readme += "| Category | Solved |\n"
+readme += "|---|---|\n"
 
 for section in sections:
+    readme += f"| {section} | {len(section_data[section])} |\n"
 
+readme += f"\n**Total Solved:** {cses_total}\n\n"
+readme += "---\n\n"
+
+for section in sections:
     files = section_data[section]
-
-    readme += f"\n## {section}\n\n"
-
+    readme += f"## {section}\n\n"
     readme += "| # | Problem | Solution |\n"
     readme += "|---|---|---|\n"
 
     for idx, file in enumerate(files, start=1):
-
         problem_name = file.replace(".cpp", "")
-
-        section_path = section.replace(" ", "%20")
-        file_path = file.replace(" ", "%20")
-
+        section_path = quote(section)
+        file_path = quote(file)
         readme += (
             f"| {idx} | {problem_name} | "
             f"[Code](./{section_path}/{file_path}) |\n"
+        )
+
+    readme += "\n"
+
+readme += "# Datastar Coaching\n\n"
+readme += "## Progress\n\n"
+readme += "| Chapter | Solved |\n"
+readme += "|----------|---------|\n"
+
+for chapter in datastar_chapters:
+    readme += f"| {chapter} | {len(datastar_data[chapter])} |\n"
+
+readme += f"\n**Total Solved:** {datastar_total}\n\n"
+readme += "---\n\n"
+
+for chapter in datastar_chapters:
+    files = datastar_data[chapter]
+    readme += f"## {chapter}\n\n"
+    readme += "| # | Problem | Solution |\n"
+    readme += "|---|---|---|\n"
+
+    for idx, file in enumerate(files, start=1):
+        problem_name = file.replace(".cpp", "")
+        chapter_path = quote(DATASTAR_FOLDER)
+        chapter_name = quote(chapter)
+        file_path = quote(file)
+        readme += (
+            f"| {idx} | {problem_name} | "
+            f"[Code](./{chapter_path}/{chapter_name}/{file_path}) |\n"
         )
 
     readme += "\n"

@@ -1,3 +1,15 @@
+# Competitive Programming Solutions
+
+## Overall Progress
+
+| Platform | Solved |
+|----------|---------|
+| CSES | 21 |
+| Datastar Coaching | 4 |
+| Total | 25 |
+
+---
+
 # CSES Problem Set Solutions
 
 Solutions to the CSES Problem Set in C++.
@@ -33,23 +45,22 @@ Solutions to the CSES Problem Set in C++.
 
 | # | Problem | Solution |
 |---|---|---|
-| 1 | Bit_Strings | [Code](./Introductory%20Problems/Bit_Strings.cpp) |
-| 2 | Coin_Piles | [Code](./Introductory%20Problems/Coin_Piles.cpp) |
-| 3 | Creating_Strings | [Code](./Introductory%20Problems/Creating_Strings.cpp) |
-| 4 | Increasing_array | [Code](./Introductory%20Problems/Increasing_array.cpp) |
-| 5 | Number_Spiral | [Code](./Introductory%20Problems/Number_Spiral.cpp) |
-| 6 | Repetitions | [Code](./Introductory%20Problems/Repetitions.cpp) |
-| 7 | Tower_of_Hanoi | [Code](./Introductory%20Problems/Tower_of_Hanoi.cpp) |
-| 8 | Trailing_Zeros | [Code](./Introductory%20Problems/Trailing_Zeros.cpp) |
-| 9 | Two_Knight | [Code](./Introductory%20Problems/Two_Knight.cpp) |
-| 10 | apple_division | [Code](./Introductory%20Problems/apple_division.cpp) |
-| 11 | gray_code | [Code](./Introductory%20Problems/gray_code.cpp) |
-| 12 | missing_number | [Code](./Introductory%20Problems/missing_number.cpp) |
-| 13 | palindrome_reorder | [Code](./Introductory%20Problems/palindrome_reorder.cpp) |
-| 14 | permutations | [Code](./Introductory%20Problems/permutations.cpp) |
+| 1 | apple_division | [Code](./Introductory%20Problems/apple_division.cpp) |
+| 2 | Bit_Strings | [Code](./Introductory%20Problems/Bit_Strings.cpp) |
+| 3 | Coin_Piles | [Code](./Introductory%20Problems/Coin_Piles.cpp) |
+| 4 | Creating_Strings | [Code](./Introductory%20Problems/Creating_Strings.cpp) |
+| 5 | gray_code | [Code](./Introductory%20Problems/gray_code.cpp) |
+| 6 | Increasing_array | [Code](./Introductory%20Problems/Increasing_array.cpp) |
+| 7 | missing_number | [Code](./Introductory%20Problems/missing_number.cpp) |
+| 8 | Number_Spiral | [Code](./Introductory%20Problems/Number_Spiral.cpp) |
+| 9 | palindrome_reorder | [Code](./Introductory%20Problems/palindrome_reorder.cpp) |
+| 10 | permutations | [Code](./Introductory%20Problems/permutations.cpp) |
+| 11 | Repetitions | [Code](./Introductory%20Problems/Repetitions.cpp) |
+| 12 | Tower_of_Hanoi | [Code](./Introductory%20Problems/Tower_of_Hanoi.cpp) |
+| 13 | Trailing_Zeros | [Code](./Introductory%20Problems/Trailing_Zeros.cpp) |
+| 14 | Two_Knight | [Code](./Introductory%20Problems/Two_Knight.cpp) |
 | 15 | two_sets | [Code](./Introductory%20Problems/two_sets.cpp) |
 | 16 | weird_algorithm | [Code](./Introductory%20Problems/weird_algorithm.cpp) |
-
 
 ## Sorting and Searching
 
@@ -58,7 +69,6 @@ Solutions to the CSES Problem Set in C++.
 | 1 | Distinct_Numbers | [Code](./Sorting%20and%20Searching/Distinct_Numbers.cpp) |
 | 2 | Subarray_Divisibility | [Code](./Sorting%20and%20Searching/Subarray_Divisibility.cpp) |
 
-
 ## Dynamic Programming
 
 | # | Problem | Solution |
@@ -66,60 +76,50 @@ Solutions to the CSES Problem Set in C++.
 | 1 | Dice_Combinations | [Code](./Dynamic%20Programming/Dice_Combinations.cpp) |
 | 2 | removing_digits | [Code](./Dynamic%20Programming/removing_digits.cpp) |
 
-
 ## Graph Algorithms
 
 | # | Problem | Solution |
 |---|---|---|
-
 
 ## Range Queries
 
 | # | Problem | Solution |
 |---|---|---|
 
-
 ## Tree Algorithms
 
 | # | Problem | Solution |
 |---|---|---|
-
 
 ## Mathematics
 
 | # | Problem | Solution |
 |---|---|---|
 
-
 ## String Algorithms
 
 | # | Problem | Solution |
 |---|---|---|
-
 
 ## Geometry
 
 | # | Problem | Solution |
 |---|---|---|
 
-
 ## Advanced Techniques
 
 | # | Problem | Solution |
 |---|---|---|
-
 
 ## Sliding Window Problems
 
 | # | Problem | Solution |
 |---|---|---|
 
-
 ## Interactive Problems
 
 | # | Problem | Solution |
 |---|---|---|
-
 
 ## Bitwise Operations
 
@@ -127,32 +127,54 @@ Solutions to the CSES Problem Set in C++.
 |---|---|---|
 | 1 | counting_bits | [Code](./Bitwise%20Operations/counting_bits.cpp) |
 
-
 ## Construction Problems
 
 | # | Problem | Solution |
 |---|---|---|
-
 
 ## Advanced Graph Problems
 
 | # | Problem | Solution |
 |---|---|---|
 
-
 ## Counting Problems
 
 | # | Problem | Solution |
 |---|---|---|
-
 
 ## Additional Problems I
 
 | # | Problem | Solution |
 |---|---|---|
 
-
 ## Additional Problems II
+
+| # | Problem | Solution |
+|---|---|---|
+
+# Datastar Coaching
+
+## Progress
+
+| Chapter | Solved |
+|----------|---------|
+| Chapter 1 | 4 |
+| Chapter 2 | 0 |
+
+**Total Solved:** 4
+
+---
+
+## Chapter 1
+
+| # | Problem | Solution |
+|---|---|---|
+| 1 | algorithm | [Code](./Datastar%20Coaching/Chapter%201/algorithm.cpp) |
+| 2 | amount | [Code](./Datastar%20Coaching/Chapter%201/amount.cpp) |
+| 3 | bit_strings | [Code](./Datastar%20Coaching/Chapter%201/bit_strings.cpp) |
+| 4 | volume | [Code](./Datastar%20Coaching/Chapter%201/volume.cpp) |
+
+## Chapter 2
 
 | # | Problem | Solution |
 |---|---|---|
